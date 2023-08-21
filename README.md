@@ -1,1 +1,1 @@
-# Given the HTML hw1.css consists of the styling of the table from teams.html
+# This project consists of styling a table using CSS. I was given the HTML in teams.html and created hw1.css.
